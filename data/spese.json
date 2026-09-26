@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "nome": "f",
+    "descrizione": "412",
+    "importo": 43,
+    "partecipanti": [
+      "e",
+      "f",
+      "hn"
+    ],
+    "gruppoId": "gmui9zhrhuf3jzl",
+    "data": "2026-09-01"
+  }
+]
